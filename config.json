@@ -1,0 +1,5 @@
+{
+  "access_key" : "replace",
+  "secret_access_key" : "replace",
+  "notinclude_table": "\"noinclude\",\"test5\""
+}st
